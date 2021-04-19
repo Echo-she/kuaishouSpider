@@ -32,7 +32,7 @@
 #### **1.下载脚本**
 
 ```bash
-$ git clone https://gitee.com/unlucky-she/kuaishou-spider.git
+$ git clone https://github.com/Unlucky-she/kuaishouSpider.git
 ```
 
 #### **2.安装Scrapy**
